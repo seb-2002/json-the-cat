@@ -1,0 +1,24 @@
+{
+  "name": "json-the-cat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breedFetcher.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seb-2002/json-the-cat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seb-2002/json-the-cat/issues"
+  },
+  "homepage": "https://github.com/seb-2002/json-the-cat#readme"
+}
